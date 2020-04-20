@@ -1,4 +1,4 @@
-Module One Final Project
+WeVolunteer
 ========================
 
 This is a  **Command Line CRUD App** which uses a database to persist information. The CLI uses:
@@ -17,6 +17,7 @@ This app:
 
 ---
 
+https://medium.com/@stephaniezou/so-how-does-the-backend-work-anyway-2b0839c1faac?source=friends_link&sk=dd58b7e7d92a43b3388f1dbd3c34cd5a
 
 
 
