@@ -1,7 +1,9 @@
 WeVolunteer
 ========================
 
-https://medium.com/swlh/so-how-does-the-backend-work-anyway-2b0839c1faac?source=friends_link&sk=dd58b7e7d92a43b3388f1dbd3c34cd5a
+[Read my Medium post about it!](https://medium.com/swlh/so-how-does-the-backend-work-anyway-2b0839c1faac?source=friends_link&sk=dd58b7e7d92a43b3388f1dbd3c34cd5a)
+
+
 
 This is a  **Command Line CRUD App** which uses a database to persist information. The CLI uses:
 
